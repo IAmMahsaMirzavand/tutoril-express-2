@@ -30,7 +30,7 @@ request.findUserIndex = findUserIndex;
 next();
 }
 // app.use(loggingMiddleware)
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 3000;
 
 
  const mockUsers = [
